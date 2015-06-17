@@ -1,0 +1,13 @@
+{
+  "name": "ngStroke",
+  "version": "1.0.0",
+  "description": "AngularJS window stroke loading animation",
+  "repository": "",
+  "author": "@leog",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "dgeni": "^0.4.1"
+  }
+}
